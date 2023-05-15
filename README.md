@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Samarth.
 
 <!--
 **samarth-developer/samarth-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
